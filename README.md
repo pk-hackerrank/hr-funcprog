@@ -1,2 +1,3 @@
-# hr-funcprog
-Hackerrank Functional Programming
+# HackerRank Functional Programming
+
+1. [Introduction](introduction/introduction.md)

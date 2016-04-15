@@ -1,0 +1,1 @@
+12. [String Reductions](https://www.hackerrank.com/challenges/string-reductions) - [doc](string-reductions/string-reductions.md) - [Scala](string-reductions/scala/src/com/pktippa/StringReductions.scala)

@@ -4,4 +4,5 @@
 4. [List Replication](https://www.hackerrank.com/challenges/fp-list-replication) - [doc](list-replication/list-replication.md) - [Scala](list-replication/scala/src/com/pktippa/ListReplication.scala)
 5. [Filter Array](https://www.hackerrank.com/challenges/fp-filter-array) - [doc](filter-array/filter-array.md) - [Scala](filter-array/scala/src/com/pktippa/FilterArray.scala)
 6. [Filter Positions in a List](https://www.hackerrank.com/challenges/fp-filter-positions-in-a-list) - [doc](filter-positions-in-a-list/filter-positions-in-a-list.md) - [Scala](filter-positions-in-a-list/scala/src/com/pktippa/FilterPositionsInAList.scala)
+7. [Array of N Elements](https://www.hackerrank.com/challenges/fp-array-of-n-elements) - [doc](array-of-n-elements/array-of-n-elements.md)  - [Scala](array-of-n-elements/scala/src/com/pktippa/ArrayOfNElements.scala)
 12. [Evaluating e^x](https://www.hackerrank.com/challenges/eval-ex) - [doc](evaluating-e-power-x/evaluating-e-power-x.md) -  [Scala](evaluating-e-power-x/scala/src/com/pktippa/EvalEx.scala)

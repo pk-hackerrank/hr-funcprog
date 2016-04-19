@@ -1,5 +1,6 @@
 1. [Solve Me First FP](https://www.hackerrank.com/challenges/fp-solve-me-first) - [doc](solve-me-first/solve-me-first.md) - [Scala](solve-me-first/scala/src/com/pktippa/SolveMeFirst.scala)
 2. [Hello World](https://www.hackerrank.com/challenges/fp-hello-world) - [doc](hello-world/hello-world.md) - [Scala](hello-world/scala/src/com/pktippa/HelloWorld.scala)
+3. [Hello World N Times](https://www.hackerrank.com/challenges/fp-hello-world-n-times) - [doc](hello-world-n-times/hello-world-n-times.md) - [Scala](hello-world-n-times/scala/src/com/pktippa/HelloWorldNTimes.scala)
 4. [List Replication](https://www.hackerrank.com/challenges/fp-list-replication) - [doc](list-replication/list-replication.md) - [Scala](list-replication/scala/src/com/pktippa/ListReplication.scala)
 5. [Filter Array](https://www.hackerrank.com/challenges/fp-filter-array) - [doc](filter-array/filter-array.md) - [Scala](filter-array/scala/src/com/pktippa/FilterArray.scala)
 12. [Evaluating e^x](https://www.hackerrank.com/challenges/eval-ex) - [doc](evaluating-e-power-x/evaluating-e-power-x.md) -  [Scala](evaluating-e-power-x/scala/src/com/pktippa/EvalEx.scala)

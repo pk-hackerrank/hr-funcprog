@@ -6,4 +6,5 @@
 5. [String Mingling](https://www.hackerrank.com/challenges/string-mingling) - [doc](string-mingling/string-mingling.md) - [Scala](string-mingling/scala/src/com/pktippa/StringMingling.scala)
 6. [String-o-Permute](https://www.hackerrank.com/challenges/string-o-permute) - [doc](string-o-permute/string-o-permute.md) - [Scala](string-o-permute/scala/src/com/pktippa/StringOPermute.scala)
 9. [String Compression](https://www.hackerrank.com/challenges/string-compression) - [doc](string-compression/string-compression.md) - [Scala](string-compression/scala/src/com/pktippa/StringCompression.scala)
+11. [Prefix Compression](https://www.hackerrank.com/challenges/prefix-compression) - [doc](prefix-compression/prefix-compression.md) - [Scala](prefix-compression/scala/src/com/pktippa/PrefixCompression.scala)
 12. [String Reductions](https://www.hackerrank.com/challenges/string-reductions) - [doc](string-reductions/string-reductions.md) - [Scala](string-reductions/scala/src/com/pktippa/StringReductions.scala)

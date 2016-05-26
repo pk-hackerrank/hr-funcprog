@@ -8,5 +8,6 @@
 9. [String Compression](https://www.hackerrank.com/challenges/string-compression) - [doc](string-compression/string-compression.md) - [Scala](string-compression/scala/src/com/pktippa/StringCompression.scala)
 11. [Prefix Compression](https://www.hackerrank.com/challenges/prefix-compression) - [doc](prefix-compression/prefix-compression.md) - [Scala](prefix-compression/scala/src/com/pktippa/PrefixCompression.scala)
 12. [String Reductions](https://www.hackerrank.com/challenges/string-reductions) - [doc](string-reductions/string-reductions.md) - [Scala](string-reductions/scala/src/com/pktippa/StringReductions.scala)
+16. [Filter Elements](https://www.hackerrank.com/challenges/filter-elements) - [doc](filter-elements/filter-elements.md) - [Scala](filter-elements/scala/src/com/pktippa/FilterElements.scala)
 x. [Functions and Fractals: Sierpinski triangles](https://www.hackerrank.com/challenges/functions-and-fractals-sierpinski-triangles) - [doc](functions-and-fractals-sierpinski-triangles/functions-and-fractals-sierpinski-triangles.md)
 y. [Super Digit](https://www.hackerrank.com/challenges/super-digit) - [doc](super-digit/super-digit.md) - [Scala](super-digit/scala/src/com/pktippa/SuperDigit.scala)
